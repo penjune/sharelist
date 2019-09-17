@@ -11,7 +11,7 @@ then
   yum install -y wget unzip >/dev/null 2>&1
 fi
 
-wget -O sharelist-master.zip https://github.com/reruin/sharelist/archive/master.zip >/dev/null 2>&1
+wget -O sharelist-master.zip https://github.com/penjune/sharelist/archive/master.zip >/dev/null 2>&1
 
 unzip -q -o sharelist-master.zip -d ./
 
