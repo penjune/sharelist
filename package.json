@@ -1,8 +1,8 @@
 {
-  "name": "sharelist",
+  "name": "zthelast",
   "version": "0.1.0",
   "bin": "app.js",
-  "repository": "https://github.com/reruin/sharelist",
+  "repository": "https://github.com/penjune/sharelist",
   "license": "Apache-2.0",
   "scripts": {
     "start": "node app.js",
