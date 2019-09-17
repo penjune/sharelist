@@ -1,5 +1,5 @@
 FROM node:8-alpine
-MAINTAINER reruin
+MAINTAINER penjune
 
 ADD . /sharelist/
 WORKDIR /sharelist
